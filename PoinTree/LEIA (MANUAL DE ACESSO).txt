@@ -1,0 +1,26 @@
+execute primeiro o banco de dados abaixo presente na pasta;
+
+apos a execução você pode inicializar pelo script= " redirect.php " em seu localhost;
+   -> Apenas a função Entrar funciona
+
+Você será redirecionado para o menu de cadastro/login;
+   -> Utilize algum email e senha presentes no banco de dados ou apenas crie um proprio seu pelo "cadastro"
+
+Abas que funcionam:
+*Sair
+   -> Destroi a sessão e volta para o login
+
+*Relatório
+   -> O relatório mostra o registro de todas as pessoas que tem uma conta no site, ao lado da "data do último plantio" tera um botão
+	onde você podera ver com mais detalhes os plantios de qualquer usuário
+   -> Outras funcionalidades como a barra de pesquisa e o botão de recarregamento estão inclusos, botão de Edição(com cadeado) só pode
+	ser acessado por uma conta Administradora(utilizes os dados abaixo para acessa-la)
+
+Conta do Administrador:
+	*email: pointreeAdm@gmail.org
+	*senha: admin
+
+
+att, Leonardo.
+ 
+
